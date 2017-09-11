@@ -1,6 +1,5 @@
 #Ben Kellogg Brk7vu 9/11
+import helper
 
-def greeting(msg):
-    print(msg)
 
-greeting('hello')
+helper.greeting('hello')
