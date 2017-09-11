@@ -2,3 +2,6 @@
 
 def greeting(msg):
     print(msg)
+
+def question(msg):
+    print('Hello, ' + msg)
